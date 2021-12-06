@@ -1,0 +1,57 @@
+*{
+	padding: 20px;
+	margin: 20px;
+	font-family: 'Play', sans-serif;
+	background-color: #ed1b76;
+	color: black;
+}
+html
+{
+	background-image: url(logo.png);
+}
+.content
+{
+	outline: 2px dotted #ffffff;
+	outline-offset: 4px;
+	background-color: #037a76;
+}
+.content p
+{
+	font-size: 18px;
+	background-color: #249f9c;
+}
+.content h4
+{
+	margin: 0; 
+	padding: 0;
+	background-color: #249f9c;
+	font-size: 22px;
+}
+.important
+{
+	margin: 0; 
+	padding: 0;
+	background-color: #249f9c;
+}
+.important p
+{
+	background-color: #249f9c;
+	font-size: 20px;
+	margin: 0; 
+	padding: 0;
+}
+.content ul
+{
+	margin-left: 30; 
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	padding: 0;
+	background-color: #249f9c;
+}
+.content ul li 
+{
+	margin: 0;
+	padding: 0;
+	background-color: #249f9c;
+}
